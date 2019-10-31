@@ -1,6 +1,8 @@
 Relative Abundance and Community Similiarity of Conditionally Rare Taxa
 ====
 
+[![DOI](https://zenodo.org/badge/218647021.svg)](https://zenodo.org/badge/latestdoi/218647021)
+
 ## Quick Start
 - Open crt_taraoceans.Rmd
 - Click "knit"
